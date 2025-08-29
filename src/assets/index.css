@@ -12,6 +12,16 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+*{
+  color: #4A232C;
+}
+body {
+  background-image: url("../public/bg.jpg");
+   background-size: cover;     
+  background-position: center;  
+  background-repeat: no-repeat; 
+  min-height: 100vh;  
+}
 
 a {
   font-weight: 500;
