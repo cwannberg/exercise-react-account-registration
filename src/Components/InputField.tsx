@@ -1,4 +1,4 @@
-import { forwardRef, type ChangeEvent, type ReactElement } from "react";
+import { forwardRef, type ChangeEvent, type ReactElement, type KeyboardEvent } from "react";
 import { type RegistrationFormData } from "./RegistrationFormData";
 
 type InputFieldProps = {
